@@ -8,7 +8,7 @@
 
 **Disease Detection** is a plant disease detecter ✅ Android application 📱 built using Tensorflow Lite, Kaggle and Teachable Machine.
 
-***You can Install and test latest Disease Detection app from below 👇***
+***You can Install and test latest Disease Detection app from below 👇***  
 
 [![Disease Detection](https://img.shields.io/badge/DiseaseDetection✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/MohitGupta121/DiseaseDetection/suites/6711576160/artifacts/255441035) 
 
