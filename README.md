@@ -10,7 +10,7 @@
 
 ***You can Install and test latest Disease Detection app from below 👇***   
 
-[![Disease Detection](https://img.shields.io/badge/DiseaseDetection✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/MohitGupta121/DiseaseDetection/suites/6711576160/artifacts/255441035) 
+[![Disease Detection](https://img.shields.io/badge/DiseaseDetection✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/MohitGupta121/DiseaseDetection/suites/6711576160/artifacts/255441035)  
  
 ## ⚙️ Features
 * Take the image from camera and get Plant Disease.
